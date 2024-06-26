@@ -5,3 +5,5 @@
 	- `Spring boot`
 	- `Hibernate`
 	- `Gradle`
+
+<img title="Application architecture" alt="Kotlin Spring boot app" src="./screens/Screenshot.png">
